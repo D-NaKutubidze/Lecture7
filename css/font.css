@@ -1,11 +1,11 @@
 @font-face {
-  font-family: 'AcuminPro-Italic';
-  src: url('AcuminPro-Italic.eot');
-  src: url('AcuminPro-Italic.eot?#iefix') format('embedded-opentype'),
-       url('AcuminPro-Italic.svg#AcuminPro-Italic') format('svg'),
-       url('AcuminPro-Italic.ttf') format('truetype'),
-       url('AcuminPro-Italic.woff') format('woff'),
-       url('AcuminPro-Italic.woff2') format('woff2');
+  font-family: 'AcuminPro';
+  src: url('../fonts/AcuminPro-Italic.eot');
+  src: url('../fonts/AcuminPro-Italic.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/AcuminPro-Italic.svg#AcuminPro-Italic') format('svg'),
+       url('../fonts/AcuminPro-Italic.ttf') format('truetype'),
+       url('../fonts/AcuminPro-Italic.woff') format('woff'),
+       url('../fonts/AcuminPro-Italic.woff2') format('woff2');
   font-weight: normal;
   font-style: normal;
 }
